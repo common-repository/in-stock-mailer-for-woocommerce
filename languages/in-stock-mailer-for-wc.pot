@@ -1,0 +1,89 @@
+# Copyright (C) 2020 Frankspress
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: in-stock-mailer-for-wc 2.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2020-10-19 10:02-0500\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: includes/display-manager.php:40 includes/display-manager.php:46
+#: includes/display-manager.php:73 includes/display-manager.php:79
+msgid "cancel?"
+msgstr ""
+
+#: includes/display-manager.php:48 includes/display-manager.php:81
+msgid "Your email"
+msgstr ""
+
+#: includes/display-manager.php:49 includes/display-manager.php:82
+msgid "Submit"
+msgstr ""
+
+#: includes/display-manager.php:52 includes/display-manager.php:85
+msgid "Subscribe to marketing emails"
+msgstr ""
+
+#: includes/display-manager.php:56 includes/display-manager.php:89
+msgid "Your name here"
+msgstr ""
+
+#: includes/functions.php:62
+msgid "Back in stock alert!"
+msgstr ""
+
+#: includes/functions.php:128
+msgid "Need help?"
+msgstr ""
+
+#: includes/in-stock-manager.php:284
+msgid "Hello"
+msgstr ""
+
+#: includes/options/option-validate.php:33
+msgid "Button text exceeds 42 characters <br>"
+msgstr ""
+
+#: includes/options/option-validate.php:52
+msgid "Color value is not valid. <br>"
+msgstr ""
+
+#: includes/options/option-validate.php:114
+msgid "The email header image Url is not valid. <br>"
+msgstr ""
+
+#: includes/options/option-validate.php:125
+msgid "The email subject exceeds 65 characters <br>"
+msgstr ""
+
+#: includes/options/option-validate.php:133
+msgid "The email body text exceeds 254 characters <br>"
+msgstr ""
+
+#: includes/options/settings-register.php:198
+msgid "normal"
+msgstr ""
+
+#: includes/options/settings-register.php:199
+msgid "wide"
+msgstr ""
+
+#: includes/options/settings-register.php:292
+msgid "Settings"
+msgstr ""
+
+#: includes/options/setting-pages/pending-alerts.php:206
+#: includes/options/setting-pages/sent-alerts.php:172
+msgid "&laquo;"
+msgstr ""
+
+#: includes/options/setting-pages/pending-alerts.php:207
+#: includes/options/setting-pages/sent-alerts.php:173
+msgid "&raquo;"
+msgstr ""
